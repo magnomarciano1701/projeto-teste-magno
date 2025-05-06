@@ -1,1 +1,1 @@
-print('iniciando funções novas')
+print('Iniciando funcões novas')
